@@ -6,11 +6,14 @@
 | ------------------------ |:-----------------------------------------------------:|
 | Azure Portal.com         | https://portal.azure.com/#home                        |
 | LINE Developers site     | https://account.line.biz/login                        |
-| left baz                 | right baz                                             |
+| Ngrok                    | https://ngrok.com/                                    |
+| Python                   | https://www.python.org/downloads/                     |
+| VS Code                  | https://code.visualstudio.com/Download                    |
 
-
-### Azure Portal.com
-> https://portal.azure.com/#home
+### Contact
+```
+CPC 209945
+```
 
 ### LINE Developers site
 > https://account.line.biz/login
