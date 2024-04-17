@@ -12,8 +12,9 @@
 
 ### Contact
 ```
-CPC 209945
+CPC 209945@cpc.com.tw
 ```
 
-### LINE Developers site
-> https://account.line.biz/login
+### Web site & Line Bot ID
+> https://github.com/CPCInfo/AzureOpenAI
+> @435akkjh
