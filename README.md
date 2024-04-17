@@ -10,11 +10,16 @@
 | Python                   | https://www.python.org/downloads/                     |
 | VS Code                  | https://code.visualstudio.com/Download                    |
 
-### Contact
-```
-CPC 209945@cpc.com.tw
-```
 
 ### Web site & Line Bot ID
+```
 > https://github.com/CPCInfo/AzureOpenAI
+```
+```
 > @435akkjh
+```
+
+### Contact
+```
+CPC ID: 209945@cpc.com.tw
+```
